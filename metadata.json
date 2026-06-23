@@ -1,0 +1,6 @@
+{
+  "name": "الذاكرين",
+  "description": "تطبيق إسلامي شامل للأذان، مواقيت الصلاة، تحديد القبلة بدقة، مصحف كامل وصوتي، أذكار وأحاديث وتفاسير، فقه ومحاضرات مشايخ، مع تحفيظ وتجويد ونظام تنبيهات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
